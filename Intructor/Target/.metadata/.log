@@ -1,0 +1,69 @@
+!SESSION 2024-11-22 10:51:00.851 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /media/bao/saving_file/Embedded C Programming/Intructor/Target -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-11-22 10:51:09.461
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-11-22 10:51:09.462
+!MESSAGE Log4j2 initialized with config file /media/bao/saving_file/Embedded C Programming/Intructor/Target/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-22 10:51:13.135
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-11-22 10:51:15.414
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.st.stm32cube.ide.mcu.ide.startup.ProductDbLoad$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-11-22 10:51:15.414
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2024-11-22 10:51:05.162 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-11-22 10:51:21.356
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-11-22 10:51:21.358
+!MESSAGE Log4j2 initialized with config file /media/bao/saving_file/Embedded C Programming/Intructor/Target/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-22 10:51:24.900
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:30.864
+!MESSAGE Indexed '001HelloWorld' (3 sources, 55 headers) in 1.67 sec: 2,098 declarations; 2,961 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:31.395
+!MESSAGE Indexed '008button_ISR' (3 sources, 55 headers) in 0.525 sec: 2,114 declarations; 2,995 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:32.780
+!MESSAGE Indexed '009packed_Vsnonpacked' (3 sources, 55 headers) in 0.352 sec: 2,104 declarations; 2,983 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:33.155
+!MESSAGE Indexed '003Add' (3 sources, 54 headers) in 0.37 sec: 2,091 declarations; 2,957 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:33.594
+!MESSAGE Indexed '004led_on' (3 sources, 53 headers) in 0.436 sec: 1,955 declarations; 2,824 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:33.871
+!MESSAGE Indexed '006pin_read' (3 sources, 53 headers) in 0.273 sec: 1,958 declarations; 2,834 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:34.286
+!MESSAGE Indexed '011keypad' (3 sources, 55 headers) in 0.24 sec: 2,106 declarations; 3,037 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:34.483
+!MESSAGE Indexed '002Sizeof' (3 sources, 55 headers) in 0.195 sec: 2,098 declarations; 2,967 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:34.645
+!MESSAGE Indexed '010led_toggle_bitfields' (3 sources, 54 headers) in 0.161 sec: 2,021 declarations; 2,893 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:34.778
+!MESSAGE Indexed '007volatile' (3 sources, 53 headers) in 0.131 sec: 1,954 declarations; 2,820 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-22 10:53:34.922
+!MESSAGE Indexed '005led_toggle' (3 sources, 53 headers) in 0.143 sec: 1,957 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
